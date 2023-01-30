@@ -1,0 +1,5 @@
+name: DougDougLockLock
+version: '${version}'
+main: de.gurkenwerfer.locklock.Locklock
+api-version: 1.19
+description: Locks chests in custom dungeons
